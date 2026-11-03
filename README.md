@@ -40,23 +40,23 @@ I enjoy turning ideas into working software, understanding how things work behin
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flipasss&theme=github_dark&title_color=A11F52&text_color=F5F1D8&bg_color=0A3323&border_color=2A6A33&icon_color=D89A92&chart_color=A11F52"
-    alt="Andrea's GitHub stats"
-    width="48%"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flipasss&theme=github_dark&title_color=A11F52&text_color=F5F1D8&bg_color=0A3323&border_color=2A6A33&icon_color=D89A92&chart_color=A11F52"
-    alt="Andrea's most used languages"
-    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flipasss&theme=radical"
+    alt="Andrea's GitHub Stats"
+    width="55%"
   />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
-[![Andrea's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flipasss&bg_color=0A3323&color=F5F1D8&title_color=A11F52&line=A11F52&point=D89A92&area_color=A11F52&area=true&hide_border=true&custom_title=Andrea%27s%20Contribution%20Graph)](https://github.com/flipasss)
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flipasss&theme=radical"
+    alt="Andrea's GitHub contribution activity"
+    width="95%"
+  />
+</p>
 
 ---
 
@@ -64,7 +64,19 @@ I enjoy turning ideas into working software, understanding how things work behin
 
 More projects coming soon.
 
-I'm currently building small projects to experiment with different technologies and strengthen my development skills.
+I'm currently building small software projects to experiment with different technologies and strengthen my development skills.
+
+<!--
+Later you can replace this section with something like:
+
+### Project Name
+
+Short description of the project.
+
+**Tech:** C# · .NET · SQLite
+
+[View Repository](YOUR-LINK)
+-->
 
 ---
 
@@ -79,6 +91,12 @@ When I'm not programming, I enjoy drawing, reading, playing the violin, explorin
 My personal developer portfolio is currently in development.
 
 **Website coming soon.**
+
+<!--
+Later replace this with:
+
+[Visit my Portfolio](YOUR-PORTFOLIO-LINK)
+-->
 
 ---
 
