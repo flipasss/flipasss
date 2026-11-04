@@ -1,31 +1,31 @@
 # Hi, I'm Andrea 👋
 
-### Application Developer · Software Enthusiast · Always Learning
+### Application Developer · Curious Builder · Always Learning
 
-I enjoy turning ideas into working software and exploring the space where **logic and creativity come together**.
+I like figuring out how things work, turning ideas into something functional, and learning new technologies by actually building with them.
 
 ---
 
-## 🌿 About Me
+## 🌿 Developer Snapshot
 
-I'm an application developer with a strong interest in software development, new technologies, and the combination of logic and creativity.
+I'm currently completing my apprenticeship in application development and spending a lot of my time working with software, automation, backend development, and cloud technologies.
 
-I especially enjoy building things from scratch, experimenting with new technologies, and continuously expanding my technical knowledge.
+What I enjoy most is starting with an idea or a problem and gradually turning it into something that actually works.
 
-Currently, I'm focusing on strengthening my skills in **software and backend development**, while also exploring **AI and machine learning**.
+Right now, I'm especially interested in becoming stronger in **software and backend development** and getting more hands-on experience with **AI and machine learning**.
 
 ---
 
 ## 💻 Tech Stack
 
-### Development
+### Core Development
 
 ![C#](https://img.shields.io/badge/C%23-0A3323?style=for-the-badge&logo=csharp&logoColor=F5F1D8)
 ![.NET](https://img.shields.io/badge/.NET-0A3323?style=for-the-badge&logo=dotnet&logoColor=F5F1D8)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-0A3323?style=for-the-badge&logo=dotnet&logoColor=F5F1D8)
 ![WPF](https://img.shields.io/badge/WPF-0A3323?style=for-the-badge&logo=windows&logoColor=F5F1D8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A3323?style=for-the-badge&logo=javascript&logoColor=F5F1D8)
 ![Angular](https://img.shields.io/badge/Angular-0A3323?style=for-the-badge&logo=angular&logoColor=F5F1D8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A3323?style=for-the-badge&logo=javascript&logoColor=F5F1D8)
 ![PHP](https://img.shields.io/badge/PHP-0A3323?style=for-the-badge&logo=php&logoColor=F5F1D8)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0A3323?style=for-the-badge&logo=powershell&logoColor=F5F1D8)
 
@@ -53,24 +53,26 @@ Currently, I'm focusing on strengthening my skills in **software and backend dev
 
 ## 🌱 Currently
 
-- Building and improving my personal developer portfolio
-- Creating small projects to strengthen my programming skills
-- Learning more about backend development
+- Completing my apprenticeship in application development
+- Improving my skills in backend and software development
+- Building small projects outside of work to learn through practice
 - Exploring AI and machine learning
+- Working on my personal developer portfolio
 
 ---
 
 ## ✨ Projects
 
-More projects coming soon.
+I'm currently building a collection of smaller projects where I can try out different technologies and ideas.
 
-I'm currently building smaller software projects that will be added here as they are completed.
+More projects will be added here as I finish them.
 
 <!--
-Later you can add something like:
+Later:
 
 ### Project Name
-Short description of the project.
+
+Short description.
 
 **Tech:** C# · .NET · SQLite
 
@@ -81,18 +83,26 @@ Short description of the project.
 
 ## 🎨 Beyond Code
 
-When I'm not programming, I enjoy exploring different creative hobbies, drawing, reading, playing the violin, and spending time with my cat.
+Code isn't my only creative outlet.
+
+Outside of development, I enjoy drawing, reading, playing the violin, trying out new interests, and spending time with my cat.
 
 ---
 
 ## 🔗 Portfolio
 
-My personal portfolio is currently in development.
+I'm currently building my personal developer portfolio, where I'll share more about my experience, projects, skills, and creative work.
 
 **Website coming soon.**
+
+<!--
+Later:
+
+[Visit my Portfolio](YOUR-PORTFOLIO-LINK)
+-->
 
 ---
 
 <p align="center">
-  A little logic, a little chaos, a lot of creating.
+  <i>A little logic, a little chaos, a lot of creating.</i>
 </p>
