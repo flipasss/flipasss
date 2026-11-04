@@ -18,36 +18,12 @@ Right now, I'm especially interested in becoming stronger in **software and back
 
 ## 💻 Tech Stack
 
-### Core Development
-
 ![C#](https://img.shields.io/badge/C%23-0A3323?style=for-the-badge&logo=csharp&logoColor=F5F1D8)
 ![.NET](https://img.shields.io/badge/.NET-0A3323?style=for-the-badge&logo=dotnet&logoColor=F5F1D8)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-0A3323?style=for-the-badge&logo=dotnet&logoColor=F5F1D8)
-![WPF](https://img.shields.io/badge/WPF-0A3323?style=for-the-badge&logo=windows&logoColor=F5F1D8)
-![Angular](https://img.shields.io/badge/Angular-0A3323?style=for-the-badge&logo=angular&logoColor=F5F1D8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A3323?style=for-the-badge&logo=javascript&logoColor=F5F1D8)
-![PHP](https://img.shields.io/badge/PHP-0A3323?style=for-the-badge&logo=php&logoColor=F5F1D8)
-![PowerShell](https://img.shields.io/badge/PowerShell-0A3323?style=for-the-badge&logo=powershell&logoColor=F5F1D8)
-
-### Cloud & Automation
-
 ![Azure](https://img.shields.io/badge/Azure-145C67?style=for-the-badge&logo=microsoftazure&logoColor=F5F1D8)
-![Azure Functions](https://img.shields.io/badge/Azure%20Functions-145C67?style=for-the-badge&logo=azurefunctions&logoColor=F5F1D8)
-![Power Apps](https://img.shields.io/badge/Power%20Apps-145C67?style=for-the-badge&logo=powerapps&logoColor=F5F1D8)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-145C67?style=for-the-badge&logo=powerautomate&logoColor=F5F1D8)
-![SharePoint](https://img.shields.io/badge/SharePoint-145C67?style=for-the-badge&logo=microsoftsharepoint&logoColor=F5F1D8)
-
-### Data & Tools
-
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-A11F52?style=for-the-badge&logo=microsoftsqlserver&logoColor=F5F1D8)
 ![Git](https://img.shields.io/badge/Git-A11F52?style=for-the-badge&logo=git&logoColor=F5F1D8)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-A11F52?style=for-the-badge&logo=azuredevops&logoColor=F5F1D8)
-![Docker](https://img.shields.io/badge/Docker-A11F52?style=for-the-badge&logo=docker&logoColor=F5F1D8)
-
-### Game Development
-
-![Unity](https://img.shields.io/badge/Unity-4A3A30?style=for-the-badge&logo=unity&logoColor=F5F1D8)
-![Godot](https://img.shields.io/badge/Godot-4A3A30?style=for-the-badge&logo=godotengine&logoColor=F5F1D8)
 
 ---
 
@@ -85,7 +61,7 @@ Short description.
 
 Code isn't my only creative outlet.
 
-Outside of development, I enjoy drawing, reading, playing the violin, trying out new interests, and spending time with my cat.
+Outside of development, I have many hobbies and always enjoy trying out new interests, and of course spending time with my cat.
 
 ---
 
