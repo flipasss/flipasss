@@ -1,4 +1,4 @@
-# Hi, I'm Andrea 👋
+# Hello World! I'm Andrea :)
 
 ### Application Developer · Curious Builder · Always Learning
 
